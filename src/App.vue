@@ -29,9 +29,10 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 源码地址 https://github.com/yizhiamumu/anires01
-* 大家好，我是一只阿木木。
-* 一名喜欢吃的程序员！
+* 源码地址 https://github.com/yizhiamumu/diandianys
+* 大家好，我是点点医生
+* 
+* 开始！
 * 
 */
 
@@ -182,7 +183,7 @@ html{
 `],
         currentMarkdown: '',
         currentThankMarkdown: '',
-        fullMarkdown: `一只阿木木
+        fullMarkdown: `点点医生
 ====
 
 坐标：杭州
@@ -190,12 +191,12 @@ html{
 技能
 ====
 
-软件开发工程师，小数据分析师。
+提供多种就医便捷服务
 
-技能
+产品简介
 ----
 
-* Java 接口开发
+* 点点医生
 * Python 数据开发
 * MySQL 数据存储
 * Hadoop 大数据平台
@@ -229,9 +230,7 @@ html{
 * 白毛浮绿水
 * 红掌拨清波
 
-重要
-----
-* 我爱邓妹
+
 
   `
       }
