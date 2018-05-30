@@ -250,7 +250,7 @@ html{
 * [安卓版](www.cnblogs.com/yizhiamumu)
 * [苹果版](www.cnblogs.com/yizhiamumu)
 * [网站](http://www.diandianys.com)
-* 知乎：一只阿木木
+
 
 公众号
 ----
